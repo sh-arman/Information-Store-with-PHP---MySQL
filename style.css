@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  background-color: rgb(246, 246, 246);
+  width: 1124px;
+  min-height: 85vh;
+  box-shadow: 0 .5rem .5rem lightgray;
+  border-radius: 3px;
+  margin: 2rem auto;
+  padding: 2rem;
+}
+
+.form-group {
+  max-width: 50%;
+}
+
+.col-custom {
+  width: 50%;
+}
